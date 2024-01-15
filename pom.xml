@@ -31,7 +31,7 @@
 		<spring-boot-starter-test.version>2.0.5.RELEASE</spring-boot-starter-test.version>
 		<spring-boot-starter-actuator.version>2.0.5.RELEASE</spring-boot-starter-actuator.version>
 		<spring-webmvc.version>5.0.5.RELEASE</spring-webmvc.version>
-		<spring-boot-configuration-processor.version>2.0.5.RELEASE</spring-boot-configuration-processor.version>
+		<spring-boot-configuration-processor.version>2.7.18</spring-boot-configuration-processor.version>
 
 
 	</properties>
